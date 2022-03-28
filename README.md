@@ -1,5 +1,5 @@
 # CubeDash
-My Unity3D project of a simple level-based minigame. This is my first game made with Unity as I continue becoming more familiar with the game engine. There are only 3 short levels. Don't expect it to be good since I'm still a beginner :)
+My Unity3D project of a simple level-based minigame. This is my first game made with Unity as I continue becoming more familiar with the game engine. There are only 3 short levels. Learnt it from Brackeys on youtube. Don't expect it to be good since I'm still a beginner :)
 
 PLAY HERE : https://play.unity.com/mg/other/webgl-builds-170220
 
