@@ -1,6 +1,8 @@
 # CubeDash
 My Unity3D project of a simple level-based game. This is my first game made with Unity so obviously its not the best :)
 
+PLAY HERE : https://play.unity.com/mg/other/webgl-builds-170220
+
 ![image](https://user-images.githubusercontent.com/68273655/160195504-18a7daef-b432-4a90-8d90-5e416a03902c.png)
 
 
